@@ -1,6 +1,14 @@
 body{
-    background-color: antiquewhite;
+    background-image: url(image/chat.jpeg);
     font-family: 'Courier New', Courier, monospace;
     color: blue;
     font-size: 18px;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
 }
