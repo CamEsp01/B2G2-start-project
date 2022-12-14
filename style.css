@@ -4,3 +4,11 @@ body{
     color: blue;
     font-size: 18px;
 }
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
